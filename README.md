@@ -1,8 +1,8 @@
-- Hi, I’m Luke.
-- I'm a college student going from community college to a University this summer.
-- I’m interested in building a portfolio of projects.
+- hiii i’m luke
+- attending cal poly pomona for ✨ computer science ✨
+- been getting into silly cybersecurity competitions
 
 <!---
-LukeK33/LukeK33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+luke-danger/luke-danger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
