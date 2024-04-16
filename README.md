@@ -1,6 +1,5 @@
-- hiii i’m luke
-- attending cal poly pomona for ✨ computer science ✨
-- been getting into silly cybersecurity competitions
+- hi i’m luke
+- CS major and rookie hacker @ cal poly pomona
 
 <!---
 luke-danger/luke-danger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
